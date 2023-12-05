@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.503b28e8.css",
-    "main.js": "./static/js/main.537e267f.js",
+    "main.css": "./static/css/main.1358ae0e.css",
+    "main.js": "./static/js/main.fef65626.js",
     "static/media/banner-phones.png": "./static/media/banner-phones.b4eeda8bd82b712057a2.png",
     "static/media/banner-tablets.png": "./static/media/banner-tablets.a962057c1043a08f7737.png",
     "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
@@ -10,6 +10,8 @@
     "static/media/phones.png": "./static/media/phones.eca9371ac30e1f63b6f4.png",
     "static/media/tablets.png": "./static/media/tablets.a1aff0fe1c1693fcea55.png",
     "static/media/banner-accessories.png": "./static/media/banner-accessories.bdd2e0fca0159e52f41c.png",
+    "static/media/Add to fovourites - Default.svg": "./static/media/Add to fovourites - Default.c67c6571c5f943aa36ad.svg",
+    "static/media/Favourites (Heart Like).svg": "./static/media/Favourites (Heart Like).b9788a09ca873316b2f1.svg",
     "static/media/Logo (2).svg": "./static/media/Logo (2).c94176926904d965da98.svg",
     "static/media/Home.svg": "./static/media/Home.e110292ae2cf67d0baca.svg",
     "static/media/FavoritesAdded.svg": "./static/media/FavoritesAdded.35ef0548d1c93a3809b3.svg",
@@ -24,11 +26,11 @@
     "static/media/Minus.svg": "./static/media/Minus.cce4862297a181fdf808.svg",
     "index.html": "./index.html",
     "static/media/Cursor.svg": "./static/media/Cursor.aea135363af617aa1a30.svg",
-    "main.503b28e8.css.map": "./static/css/main.503b28e8.css.map",
-    "main.537e267f.js.map": "./static/js/main.537e267f.js.map"
+    "main.1358ae0e.css.map": "./static/css/main.1358ae0e.css.map",
+    "main.fef65626.js.map": "./static/js/main.fef65626.js.map"
   },
   "entrypoints": [
-    "static/css/main.503b28e8.css",
-    "static/js/main.537e267f.js"
+    "static/css/main.1358ae0e.css",
+    "static/js/main.fef65626.js"
   ]
 }
